@@ -1,0 +1,7 @@
+.gradle/
+build/
+sns.iml
+sns.ipr
+sns.iws
+sns_main.iml
+sns_test.iml
