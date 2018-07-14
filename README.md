@@ -8,7 +8,7 @@ javascript es6 babel vue.js boostrap webpack
 
 ## 기술 스팩
 
-Gradle 4.8.1
+Java 8 Spring 5 Gradle 4.8.1
 
 
 
@@ -31,6 +31,15 @@ https://editorconfig.org/
 
 ## 할일
 
+
+
+### 2017.7.15
+
+- 글 도메인 설계 와 테스트 작성
+
+### 2017.7.14
+
 - 헬로우 월드
 - git 과 github 저장소 생성 및 파일 등록
 - lombok 과 spring boot 적용
+  - IntelliJ 사용시 Compiler > Annotation ... 에서 활성화하고 플러그인 lombok 을 찾아 설치한다.
